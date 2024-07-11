@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science and Engineering, Osmania University, 2023 (expected)
+* Ph.D in Computer Science and Engineering, Osmania University, 2024 (expected)
 * M.Tech. in Computer Science and Engineering, Osmania University, 2012
 * B.Tech. in CSE, JNTU University, 2004
 
